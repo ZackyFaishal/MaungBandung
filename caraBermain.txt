@@ -1,0 +1,23 @@
+
+	Cara Bermain !!!                                                                       
+Ada beberapa hal yang perlu dipahami untuk bermain game SOS Maung bandung,seperti :     
+1.Player akan diminta untuk memasukkan nama pemain.                                     
+2.Pemain akan diharuskan untuk memilih papan permainan antara 5x5, 7x7 dan 9x9.         
+3.Pemain akan memilih untuk bermain melawan komputer atau pemain lain.                
+ 4.Lalu pemain akan masuk ke permainan.                                             
+ Aturan bermain :                                                                  
+1.Giliran bermain akan dimulai dari player 1.                                       
+2.Pemain akan diminta mengisi sebuah pertanyaan operasi dasar matematika.           
+Jika pemain dapat mengisi pertanyaan tersebut maka pemain dapat memilih akan         
+mengisi huruf 'S' atau 'O' pada papan.                                             
+Jika pemain tidak dapat mengisi pertanyaan maka giliran pemain akan berganti                                                               
+3.Pemain akan mengisi huruf 'S' atau 'O' pada papan tujuannya adalah untuk merangkai   
+kata 'SOS' baik secara vertikal, horizontal maupun diagonal.                          
+4.Waktu yang diberikan untuk mengisi pertanyaan diberikan 15, jika melewati batas waktu, giliran pemain akan berganti                          
+5.Setelah papan penuh akan dilihat pemain yang mendapat skor tertinggi.               
+6.Pemain yang mendapat skor tertinggi akan menjadi pemenang.
+7. Jika skor pemain sama, maka permainan akan dinyatakan draw / seri                         
+Selamat Bermain!!!      
+                                                              
+(TEKAN 1 UNTUK KEMBALI KE MENU)                                                   
+ __________________________________________________________________________________________
